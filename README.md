@@ -20,7 +20,7 @@
 
 <h2 align="center">Installation</h2>
 
-1. Clone the repo from Git: `git clone https://github.com/Scrp08/RumblerTest.git && cd Rumbler`
+1. Clone the repo from Git: `git clone https://github.com/someoneeelse/RumblerTest.git && cd Rumbler`
 2. Install dependencies: `npm i`
 3. Configure the bot in `config.js`. Add tokens to `tokens.txt`.
 4. Run the program! `npm start`
